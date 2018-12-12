@@ -1,0 +1,240 @@
+/*****thread*****/
+.mayhem-neutral-container {
+       width: 412px;
+       background-color: #f3f3f3;
+       border: 1px solid #e0e0e0;
+       padding: 5px;
+   }
+    
+   .mayhem-neutral-image img {
+       width: 400px;
+       height: 200px;
+       padding: 5px;
+       background-size: cover;
+       background-position: center;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;
+   }
+    
+.mayhem-neutral-quote {
+width: 400px;
+       padding: 5px;
+       margin-top: 5px;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;      
+    font-family: 'Economica', sans-serif;
+       font-size: 14.9pt;
+       text-align: center;
+    line-height: 15pt;
+    text-transform: uppercase;
+       color: #494949;
+   }
+ 
+.mayhem-neutral-quote2 {
+width: 400px;
+       padding: 5px;
+       margin-top: 5px;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;      
+    font-family: 'Economica', sans-serif;
+       text-align: center;
+    line-height: 15pt;
+    text-transform: uppercase;
+       color: #494949;
+   }
+ 
+.mayhem-sol-quote {
+width: 400px;
+       padding: 5px;
+       margin-top: 5px;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;      
+    font-family: 'Economica', sans-serif;
+       text-align: center;
+    line-height: 15pt;
+    text-transform: uppercase;
+       color: #494949;
+font-size: .70em;
+   }
+ 
+   .mayhem-neutral-body {
+       width: 400px;
+       padding-right: 5px;
+       padding-left: 5px;
+       margin-top: 5px;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;
+       font-family: 'Fira Sans Extra Condensed', sans-serif;
+       font-size: 14px;
+       text-align: justify;
+       color: #888;
+   }
+     
+    .mayhem-neutral-body strong{
+       font-weight: 700;
+        text-transform: none;
+    letter-spacing: normal;
+    color: #494949;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 14px;}
+     
+    .mayhem-neutral-body em{
+        text-transform: none;
+    letter-spacing: normal;
+    color: #494949;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 14px;}
+ 
+    .mayhem-neutral-body a{
+        text-decoration: underline;
+    letter-spacing: normal;
+    color: #66839F;
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 14px;}
+ 
+.mayhem-neutral-body a:hover{
+        text-decoration: underline;
+ 
+    color: #1E69B2;
+}
+    
+   .mayhem-neutral-tag {
+       font-family: 'Fira Sans Extra Condensed', sans-serif;
+       font-size: 10px;
+       text-align: center;
+       width: 400px;
+       padding: 5px;
+       margin-top: 5px;
+       background-color: #fafafa;
+       border: 1px solid #e0e0e0;
+   }
+
+/*****heroes*****/
+ #tony strong{
+         
+        font-weight: bold;
+        color: #d10000;
+    }
+ 
+  .tony strong{
+         
+        font-weight: bold;
+        color: #d10000;
+    }
+     
+        #eddie strong{
+         
+        font-weight: bold;
+        color: #0b4472;
+    }
+ 
+.eddie strong{
+         
+        font-weight: bold;
+        color: #0b4472;
+    }
+     
+        #alan strong{
+         
+        font-weight: bold;
+        color: #cc5612;
+    }
+     
+        #erik strong{
+         
+        font-weight: bold;
+        color: #7f2ea5;
+    }
+ 
+.erik strong{
+         
+        font-weight: bold;
+        color: #7f2ea5;
+    }
+     
+        #john strong{
+         
+        font-weight: bold;
+        color: #444444;
+    }
+     
+        #lex strong{
+         
+        font-weight: bold;
+        color: #167c3d;
+    }
+    
+       .lex strong{
+         
+        font-weight: bold;
+        color: #167c3d;
+    }
+     
+        #loki strong{
+         
+        font-weight: bold;
+        color: #4f7c15;
+    }
+ 
+        .loki strong{
+         
+        font-weight: bold;
+        color: #4f7c15;
+    }
+     
+        #remy strong{
+         
+        font-weight: bold;
+        color: #9039d3;
+    }
+ 
+.remy strong{
+         
+        font-weight: bold;
+        color: #9039d3;
+    }
+     
+        #saul strong{
+         
+        font-weight: bold;
+        color: #7f0b0b;
+    }
+ 
+.hunter strong{
+         
+        font-weight: bold;
+        color: #7f0b0b;
+    }
+ 
+#hunter strong{
+         
+        font-weight: bold;
+        color: #7f0b0b;
+    }
+     
+        #solomon strong{
+         
+        font-weight: bold;
+        color: #83699e;
+    }
+ 
+#joker strong{
+    font-weight: bold;
+    color: #69966c;
+}
+ 
+#gabrielle strong{
+    font-weight: bold;
+    color: #4f8bad;
+}
+ 
+.gabrielle strong{
+    font-weight: bold;
+    color: #4f8bad;
+}
+ 
+ #jared strong{font-weight: bold;
+    color: #db6623;}
+ 
+.jared strong{font-weight: bold;
+    color: #db6623;}
